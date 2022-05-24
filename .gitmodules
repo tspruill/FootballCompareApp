@@ -1,0 +1,3 @@
+[submodule "FootballAppFrontend"]
+	path = FootballAppFrontend
+	url = https://github.com/tspruill/FootballAppFrontend.git
